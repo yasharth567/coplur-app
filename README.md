@@ -137,12 +137,4 @@ Developed as part of Coplur Code Challenge 2025
 
 🔥 Make sure to customize, enhance UI & handle more edge cases before submitting. Avoid directly submitting AI-generated code without modification.
 
-Would you like me to:
-
-Create a starter GitHub commit structure?
-
-Add Docker support?
-
-Improve UI responsiveness for dashboard?
-
-Add README badges (Tech Stack, License, etc.)?
+?
