@@ -124,8 +124,6 @@ JWT must be provided	Login again & verify token
 ECONNREFUSED MongoDB	Ensure MongoDB is installed & running
 📄 License
 
-This project was developed for Coplur Code Challenge.
-Feel free to modify for educational purposes.
 
 🙌 Author
 
@@ -133,8 +131,4 @@ Yasharth Singh
 Developed as part of Coplur Code Challenge 2025
 📧 <singhyasharth567@gmail.com>
 
-📢 Final Note
 
-🔥 Make sure to customize, enhance UI & handle more edge cases before submitting. Avoid directly submitting AI-generated code without modification.
-
-?
